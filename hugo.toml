@@ -1,0 +1,12 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Pragmatik"
+theme = "terminal"
+paginate = 5
+
+[params]
+  subtitle = "Cybersecurity Labs & Walkthroughs"
+  contentTypeName = "posts"
+  themeColor = "green"
+  centerTheme = true
+

@@ -1,0 +1,15 @@
+baseURL = "https://k0nnn1.github.io/cyberlab-blog/"
+languageCode = "en-us"
+title = "Konn1 Cyber Blog"
+theme = "terminal"
+paginate = 5
+
+[params]
+  subtitle = "Cybersecurity Labs & Walkthroughs"
+  contentTypeName = "posts"
+  themeColor = "green"
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = "CyberLab"
