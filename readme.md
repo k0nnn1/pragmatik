@@ -1,4 +1,3 @@
-```markdown
 # Pragmatik — Cybersecurity Lab Blog
 
 Pragmatik is a **static cybersecurity blog** built with **Hugo** and hosted on **GitHub Pages**.  
