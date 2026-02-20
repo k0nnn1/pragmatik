@@ -10,3 +10,18 @@ paginate = 5
   themeColor = "green"
   centerTheme = true
 
+[[menu.main]]
+  name = "Enum"
+  url = "/exnumeration/"
+  weight = 20
+
+[[menu.main]]
+  name = "Reverse Shells"
+  url = "/reverse-shells/"
+  weight = 30
+
+[[menu.main]]
+  name = "PrivEsc"
+  url = "/privesc/"
+  weight = 40
+
